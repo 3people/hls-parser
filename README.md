@@ -12,3 +12,4 @@ media study repo
 - #EXT-X-MEDIA-SEQUENCE: 플레이리스트의 시작 시퀀스 번호를 나타냅니다.
 
 ## Example
+<img width="1391" alt="image" src="https://github.com/3people/hls-parser/assets/22341389/716f6ae5-bc06-4989-9d6b-4c9e7f5e73fd">
